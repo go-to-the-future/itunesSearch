@@ -65,7 +65,7 @@ export default {
 }
 
 .track {
-    color: #42b883;
+    color: #8B64FF;
     font-size: 2rem;
     font-weight: 700;
     text-decoration: none;
@@ -73,7 +73,7 @@ export default {
 
 .artist {
     display: block;
-    color: #42b883;
+    color: #8B64FF;
     font-size: 1.4rem;
     font-weight: 700;
     text-decoration: none;

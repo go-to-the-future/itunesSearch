@@ -33,7 +33,7 @@ export default {
   justify-content: center;
   height: 70px;
   padding: 20px;
-  background-color: #35495e;
+  background-color: #F85F71;
   box-sizing: border-box;
 }
 
@@ -48,7 +48,7 @@ export default {
   padding: .5em 2em;
   margin-left: 10px;
   color: #fff;
-  background-color: #42b883;
+  background-color: #4B9EFA;
   border: none;
   border-radius: 20px;
 }
