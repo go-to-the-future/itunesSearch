@@ -9,6 +9,7 @@
                     <div class="content">
                         <p><a class="track" :href="item.trackViewUrl" target="_blank">{{ item.trackName }}</a></p>
                         <p><a class="artist" :href="item.artistViewUrl" target="_blank">{{ item.artistName }}</a></p>
+                        <div class="preview" ><audio :src="item.previewUrl" controls></audio></div>
                         <div class="data">{{getYear(item.releaseDate)}} / {{item.primaryGenreName}} / ￥{{ item.trackPrice }}</div>
                     </div>
                 </div>
